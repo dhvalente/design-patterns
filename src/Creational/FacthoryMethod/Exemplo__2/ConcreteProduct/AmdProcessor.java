@@ -1,6 +1,6 @@
-package Creational.FacthoryMethod.Exemplo__0.ConcreteProduct;
+package Creational.FacthoryMethod.Exemplo__2.ConcreteProduct;
 
-import Creational.FacthoryMethod.Exemplo__0.Product.Processor;
+import Creational.FacthoryMethod.Exemplo__2.Product.Processor;
 
 public class AmdProcessor implements Processor {
     private int registerMemorySize;

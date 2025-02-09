@@ -1,8 +1,8 @@
-package Creational.FacthoryMethod.Exemplo__0;
+package Creational.FacthoryMethod.Exemplo__2;
 
-import Creational.FacthoryMethod.Exemplo__0.ConcreteProduct.AmdProcessor;
-import Creational.FacthoryMethod.Exemplo__0.ConcreteProduct.IntelProcessor;
-import Creational.FacthoryMethod.Exemplo__0.Product.Processor;
+import Creational.FacthoryMethod.Exemplo__2.ConcreteProduct.AmdProcessor;
+import Creational.FacthoryMethod.Exemplo__2.ConcreteProduct.IntelProcessor;
+import Creational.FacthoryMethod.Exemplo__2.Product.Processor;
 
 import java.util.Random;
 
